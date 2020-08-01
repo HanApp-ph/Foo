@@ -1,11 +1,12 @@
 name: Foo
-description: A new Flutter package project.
+description: Restart your app.
 version: 0.0.1
-author:
-homepage:
+author: JM Lorenzo
+homepage: https://github.com/dotlenter
+repository: https://github.com/dotlenter/Foo
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
