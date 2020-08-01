@@ -1,9 +1,9 @@
 name: foo
 description: Restart your app.
 version: 0.0.1
-author: JM Lorenzo
 homepage: https://github.com/dotlenter
 repository: https://github.com/dotlenter/Foo
+issue_tracker: https://github.com/dotlenter/Foo/issues
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
